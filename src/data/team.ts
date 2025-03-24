@@ -16,8 +16,7 @@ export const teamMembers = [
 		name: "Mohd Tabish Khan",
 		role: "Web, UI/UX",
 		bio: "UX enthusiast and website developer. Love to participate in Hackathons",
-		image:
-			"https://media.licdn.com/dms/image/v2/D5603AQE-6IuiZPzLqQ/profile-displayphoto-shrink_400_400/B56ZRbgePcGoAk-/0/1736702027254?e=1748476800&v=beta&t=Q86YJELOB_0f0gg3lkzChrgCDgpnGVRzukTkHVAc_QU",
+		image: "https://avatars.githubusercontent.com/u/67482503?v=4",
 		expertise: ["React", "TypeScript", "UI/UX"],
 		social: {
 			github: "https://github.com/m-tabish",
