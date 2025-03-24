@@ -4,7 +4,7 @@ import { TeamMember } from "./components/TeamMember";
 import { Background } from "./components/Background";
 import { MouseTrail } from "./components/MouseTrail";
 import { teamMembers } from "./data/team";
-
+import { Analytics } from "@vercel/analytics/react";
 function App() {
 	return (
 		<div className="relative min-h-screen">
@@ -13,7 +13,7 @@ function App() {
 			<div className="container mx-auto px-4 py-16 relative z-10 pointer-events-auto">
 				<Hero />
 				{/* <HackathonCarousel /> */}
-
+				<Analytics />
 				<p className="text-4xl md:text-4xl text-center font-bold bg-gradient-to-r from-primary via-primary/80 to-primary bg-clip-text text-transparent mb-3 animate-gradient  h-20">
 					Members of the Community
 				</p>
