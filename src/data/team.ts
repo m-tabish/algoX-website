@@ -3,8 +3,7 @@ export const teamMembers = [
 		name: "Shrinjay Shresth",
 		role: "Machine Learning Lead",
 		bio: "Stanford ML graduate with 5+ hackathon wins. Specializes in deep learning and distributed systems.",
-		image:
-			"https://media.licdn.com/dms/image/v2/C4D03AQG6FhLURABFNw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1640578830548?e=1748476800&v=beta&t=bXzf2QfSzmhPfyBK3f4VmbQKoiLAOMv8YRt_qJTG93o",
+		image: "https://avatars.githubusercontent.com/u/104555486?v=4",
 		expertise: ["PyTorch", "TensorFlow", "React"],
 		social: {
 			github: "https://github.com/shrinjayshresth1",
