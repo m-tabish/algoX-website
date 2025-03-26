@@ -6,6 +6,7 @@ import { MouseTrail } from "./components/MouseTrail";
 import { ThemeToggle } from "./components/ThemeToggle";
 import { teamMembers } from "./data/team";
 import { Analytics } from "@vercel/analytics/react";
+
 function App() {
 	return (
 		<div className="relative min-h-screen">
@@ -20,10 +21,11 @@ function App() {
 				</p>
 				<ThemeToggle />
 				<div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-					{teamMembers.map((member) => (
+					{teamMembers.map((member, index) => (
 						<TeamMember
 							key={member.name}
 							{...member}
+							isFirstTwo={index < 2}
 						/>
 					))}
 				</div>
