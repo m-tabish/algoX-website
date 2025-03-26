@@ -1,7 +1,7 @@
 export function Background() {
   return (
     <div className="fixed inset-0 -z-10">
-      {/*Drack*/}
+      {/*Dark*/}
       <div className="absolute inset-0 dark:bg-[radial-gradient(circle_at_50%_50%,_#4F46E5_0%,_transparent_25%)] opacity-20 animate-pulse-slow dark:animate-pulse-slow" />
       <div className="absolute inset-0 dark:bg-[radial-gradient(circle_at_80%_20%,_#7C3AED_0%,_transparent_25%)] opacity-20 animate-pulse-slower dark:animate-pulse-slower" />
       <div className="absolute inset-0">
