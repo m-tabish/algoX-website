@@ -22,13 +22,13 @@ function App() {
 				<ThemeToggle />
 				<div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
 					{teamMembers.map((member, index) => (
-						<TeamMember
-							key={member.name}
-							{...member}
-							isFirstTwo={index < 2}
-						/>
-					))}
-				</div>
+                <TeamMember
+                    key={member.name}
+                    {...member}
+                    variant={index < 2 ? 'featured' : 'default'}
+                />
+            ))}
+        </div>
 			</div>
 		</div>
 	);
