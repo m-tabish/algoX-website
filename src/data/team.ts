@@ -10,7 +10,7 @@ export const teamMembers = [
 			linkedin: "https://www.linkedin.com/in/shrinjay-shresth-036010215/",
 			twitter: "https://x.com/am_shrinjay",
 		},
-	},
+	}
 	{
 		name: "Mohd Tabish Khan",
 		role: "Web, UI/UX",
