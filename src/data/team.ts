@@ -1,7 +1,7 @@
 export const teamMembers = [
 	{
 		name: "Shrinjay Shresth",
-		role: "Machine Learning Lead",
+		role: "Machine Learning Lead and Founder",
 		bio: "Ex SWE Intern @ G&D Educara, ML Enthusiast with 5+ hackathon wins. Specializes in deep learning and distributed systems.",
 		image: "https://avatars.githubusercontent.com/u/104555486?v=4",
 		expertise: ["PyTorch", "TensorFlow", "React"],
@@ -24,7 +24,7 @@ export const teamMembers = [
 		},
 	},
 	{
-		name: "Marcus Rodriguez",
+		name: "Marcus RodriguezKaus",
 		role: "ML Engineer",
 		bio: "Research focused on NLP and computer vision. Published author in machine learning conferences.",
 		image:
