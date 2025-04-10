@@ -14,10 +14,11 @@ export const teamMembers = [
 	{
 		name: "Mohd Tabish Khan",
 		role: "Web, UI/UX",
-		bio: "UX enthusiast and website developer. Love to participate in Hackathons",
+		bio: "SIH'24 Finalist, 2X Hackathon Winner",
 		image: "https://avatars.githubusercontent.com/u/67482503?v=4",
 		expertise: ["React", "TypeScript", "UI/UX"],
-		social: {
+		social: { 
+			website: "https://www.tabishcodes.me",
 			github: "https://github.com/m-tabish",
 			linkedin: "https://linkedin.com/m-tabishk",
 			twitter: "https://x.com/damnthesebugs",
@@ -71,4 +72,5 @@ export const teamMembers = [
 			twitter: "https://twitter.com",
 		},
 	},
+	
 ];
