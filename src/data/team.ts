@@ -10,21 +10,22 @@ export const teamMembers = [
 			linkedin: "https://www.linkedin.com/in/shrinjay-shresth-036010215/",
 			twitter: "https://x.com/am_shrinjay",
 		},
-	},
+	}
 	{
 		name: "Mohd Tabish Khan",
 		role: "Web, UI/UX",
-		bio: "UX enthusiast and website developer. Love to participate in Hackathons",
+		bio: "SIH'24 Finalist, 2X Hackathon Winner",
 		image: "https://avatars.githubusercontent.com/u/67482503?v=4",
 		expertise: ["React", "TypeScript", "UI/UX"],
-		social: {
+		social: { 
+			website: "https://www.tabishcodes.me",
 			github: "https://github.com/m-tabish",
 			linkedin: "https://linkedin.com/m-tabishk",
 			twitter: "https://x.com/damnthesebugs",
 		},
 	},
 	{
-		name: "Marcus Rodriguez",
+		name: "Marcus RodriguezKaus",
 		role: "ML Engineer",
 		bio: "Research focused on NLP and computer vision. Published author in machine learning conferences.",
 		image:
@@ -71,4 +72,5 @@ export const teamMembers = [
 			twitter: "https://twitter.com",
 		},
 	},
+	
 ];
