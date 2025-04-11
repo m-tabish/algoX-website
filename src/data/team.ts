@@ -6,6 +6,7 @@ export const teamMembers = [
 		image: "https://avatars.githubusercontent.com/u/104555486?v=4",
 		expertise: ["PyTorch", "TensorFlow", "React"],
 		social: {
+			wesbite: "",
 			github: "https://github.com/shrinjayshresth1",
 			linkedin: "https://www.linkedin.com/in/shrinjay-shresth-036010215/",
 			twitter: "https://x.com/am_shrinjay",
@@ -32,7 +33,9 @@ export const teamMembers = [
 			"https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop",
 		expertise: ["NLP", "Computer Vision", "Python"],
 		social: {
+			wesbite: "",
 			github: "https://github.com",
+			linkedin: "",
 			twitter: "https://twitter.com",
 		},
 	},
@@ -44,8 +47,10 @@ export const teamMembers = [
 			"https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop",
 		expertise: ["Node.js", "Python", "AWS"],
 		social: {
+			wesbite: "",
 			github: "https://github.com",
-			linkedin: "https://linkedin.com",
+			linkedin: "",
+			twitter: "https://twitter.com",
 		},
 	},
 	{
@@ -68,7 +73,9 @@ export const teamMembers = [
 			"https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&h=400&fit=crop",
 		expertise: ["Statistics", "R", "Python"],
 		social: {
+			wesbite: "",
 			github: "https://github.com",
+			linkedin: "",
 			twitter: "https://twitter.com",
 		},
 	},
