@@ -16,6 +16,7 @@ export const teamMembers = [
 		image: "https://avatars.githubusercontent.com/u/104555486?v=4",
 		expertise: ["PyTorch", "TensorFlow", "React"],
 		social: {
+			wesbite: "",
 			github: "https://github.com/shrinjayshresth1",
 			linkedin: "https://www.linkedin.com/in/shrinjay-shresth-036010215/",
 			twitter: "https://x.com/am_shrinjay",
@@ -27,7 +28,7 @@ export const teamMembers = [
 		bio: "SIH'24 Finalist, 2X Hackathon Winner",
 		image: "https://avatars.githubusercontent.com/u/67482503?v=4",
 		expertise: ["React", "TypeScript", "UI/UX"],
-		social: { 
+		social: {
 			website: "https://www.tabishcodes.me",
 			github: "https://github.com/m-tabish",
 			linkedin: "https://linkedin.com/m-tabishk",
@@ -66,9 +67,11 @@ export const teamMembers = [
 		image:Sneha,
 		expertise: ["MongoDB", "Express.js", "React", "Node.js", "SQL", "java"],
 		social: {
+			wesbite: "",
 			github: "https://github.com/SnehaaSaxena",
 			linkedin: "http://www.linkedin.com/in/sneha-saxena12",
-			twitter: "https://x.com/SnehaSaxen04"
+			twitter: "https://x.com/SnehaSaxen04",
+>>>>>>> main
 		},
 	},
 	{
@@ -78,6 +81,7 @@ export const teamMembers = [
 		image:Harshita,
 		expertise: ["Python", "React.js", "Penetration Testing", "Network Security"],
 		social: {
+			wesbite: "",
 			github: "https://github.com/hsingh8850",
 			linkedin: "https://www.linkedin.com/in/harshita-singh-ba927624b/",
 			twitter: "https://x.com/harshita_4119",
