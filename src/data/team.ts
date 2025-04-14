@@ -1,6 +1,6 @@
 import Ayush from "../assets/Ayush.jpg"
 import Harshita from "../assets/Harshita.jpg"
-import Kastubh from "../assets/Kastubh.jpg"
+import Kaustubh from "../assets/Kaustubh.jpg"
 import Sneha from "../assets/Sneha.jpg"
 import Arya from "../assets/Arya.jpg"
 import Ritanshu from "../assets/Ritanshu.jpg"
@@ -16,7 +16,7 @@ export const teamMembers = [
 		image: "https://avatars.githubusercontent.com/u/104555486?v=4",
 		expertise: ["PyTorch", "TensorFlow", "React"],
 		social: {
-			wesbite: "",
+			website: "",
 			github: "https://github.com/shrinjayshresth1",
 			linkedin: "https://www.linkedin.com/in/shrinjay-shresth-036010215/",
 			twitter: "https://x.com/am_shrinjay",
@@ -36,10 +36,10 @@ export const teamMembers = [
 		},
 	},
 	{
-		name: "Kastubh Pandey",
+		name: "Kaustubh Pandey",
 		role: "Full Stack Dev",
 		bio: "SIH'24 Finalist, ex- sde intern @G&D Educara, ex- Wordpress Developer @ The Aspiring Ceo",
-		image: Kastubh,
+		image: Kaustubh,
 		expertise: ["MERN", "Docker", "Kafka"],
 		social: {
 			website: "https://kaustubh.up.railway.app/",
@@ -55,6 +55,7 @@ export const teamMembers = [
 		image: Ayush,
 		expertise: ["Flutter", "Java", "Python", "ML", "DL"],
 		social: {
+			website: "",
 			github: "https://github.com/thehemanuj",
 			linkedin: "http://www.linkedin.com/in/the-hemanuj",
 			twitter: "https://x.com/kushalhemanuj"
@@ -67,11 +68,10 @@ export const teamMembers = [
 		image:Sneha,
 		expertise: ["MongoDB", "Express.js", "React", "Node.js", "SQL", "java"],
 		social: {
-			wesbite: "",
+			website: "",
 			github: "https://github.com/SnehaaSaxena",
 			linkedin: "http://www.linkedin.com/in/sneha-saxena12",
 			twitter: "https://x.com/SnehaSaxen04",
->>>>>>> main
 		},
 	},
 	{
@@ -81,7 +81,7 @@ export const teamMembers = [
 		image:Harshita,
 		expertise: ["Python", "React.js", "Penetration Testing", "Network Security"],
 		social: {
-			wesbite: "",
+			website: "",
 			github: "https://github.com/hsingh8850",
 			linkedin: "https://www.linkedin.com/in/harshita-singh-ba927624b/",
 			twitter: "https://x.com/harshita_4119",
@@ -94,6 +94,7 @@ export const teamMembers = [
 		image:Arya,
 		expertise: ["React.js", "Python", "Java"],
 		social: {
+			website: "",
 			github: "https://github.com/aryamishra452",
 			linkedin: "http://www.linkedin.com/in/arya-m4",
 			twitter: "https://x.com/AryaMishra45235?t=h91JSANeodX18dNgjE3-0Q&s=09",
@@ -106,6 +107,7 @@ export const teamMembers = [
 		image:Shashwat,
 		expertise: ["Python", "C", "C++", "Amazon S3", "AWS SOLUTION Architect"],
 		social: {
+			website: "",
 			github: "https://github.com/shashwat30515",
 			linkedin: "https://www.linkedin.com/in/shashwat-singh-45252b220?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
 			twitter: "https://x.com/ShashwatSi21198?t=obm4bH1HNXzNPlbSk4G1uA&s=09",
@@ -119,6 +121,7 @@ export const teamMembers = [
 		image:Ritanshu,
 		expertise: ["C", "C++", "Java", "Python", "DSA", "Blockchain", "AI"],
 		social: {
+			website: "",
 			github: "https://github.com/Ritanshusharma2",
 			linkedin: "https://www.linkedin.com/in/ritanshu-sharma-45b136243",
 			twitter: "https://twitter.com/Ritanshu347?t=-_5c_QYipXYbRnHQbj5Y_A&s=09",
@@ -131,6 +134,7 @@ export const teamMembers = [
 		image:Vivek,
 		expertise: ["C", "C++", "Java", "Python", "Linux", "Network Security"],
 		social: {
+			website: "",
 			github: "https://github.com/vivekyadav03",
 			linkedin: "https://www.linkedin.com/in/vivek-yadav-694863250",
 			twitter: "https://x.com/vivekyadav03004",
@@ -143,6 +147,7 @@ export const teamMembers = [
 		image:Rashi,
 		expertise: ["Python", "HTML", "C (Basics)", "Data Analysis", "Predictive Analysis", "Frontend Dev", "DSA (in Python)", "Video Editing", "Content Writing"],
 		social: {
+			website: "",
 			github: "https://github.com/rashimalik",
 			linkedin: "https://www.linkedin.com/in/rashi-malik-ab442b289",
 			twitter: "https://x.com/RashiMalik28",
@@ -155,6 +160,7 @@ export const teamMembers = [
 		image:Muskan,
 		expertise: ["Python", "Java", "Java Script", "Scikit-Learn", "Pandas"],
 		social: {
+			website: "",
 			github: "https://github.com/muskanraj07",
 			linkedin: "https://www.linkedin.com/in/muskan-raj-4b936528a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
 			twitter: "https://x.com/MuskanRaj0713",
