@@ -71,7 +71,7 @@ export const teamMembers = [
 			github: "https://github.com/SnehaaSaxena",
 			linkedin: "http://www.linkedin.com/in/sneha-saxena12",
 			twitter: "https://x.com/SnehaSaxen04",
->>>>>>> main
+ 
 		},
 	},
 	{
